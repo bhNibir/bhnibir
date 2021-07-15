@@ -16,12 +16,12 @@
 <a href="https://codepen.io/bhnibir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bhnibir" height="30" width="40" /></a>
 <a href="https://dev.to/bhnibir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="bhnibir" height="30" width="40" /></a>
 <a href="https://twitter.com/bhnibir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhnibir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhnibir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhnibir" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bh-nibir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhnibir" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/bhnibir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bhnibir" height="30" width="40" /></a>
 <a href="https://codesandbox.com/bhnibir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="bhnibir" height="30" width="40" /></a>
 <a href="https://fb.com/bh.nibir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bh.nibir" height="30" width="40" /></a>
 <a href="https://instagram.com/bhnibir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhnibir" height="30" width="40" /></a>
-<a href="https://medium.com/@bhnibir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhnibir" height="30" width="40" /></a>
+<a href="https://medium.com/@bh.nibir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bhnibir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
